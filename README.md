@@ -1,2 +1,0 @@
-# python
-fun fun python
